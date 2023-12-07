@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 import math
-""" floor """
+""" type-annotated floor """
 
 
 def floor(n: float) -> int:
-    """ floor """
+    """ type-annotated floor """
     return math.floor(n)
